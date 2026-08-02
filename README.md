@@ -85,7 +85,6 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Frantt21/Frantt21/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Frantt21&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
