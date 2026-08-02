@@ -14,7 +14,7 @@
 
 <div data-importer="socials" align="center">
   <a href="https://app.foranly.space" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Closedoor&logo=spotify&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
+    <img src="https://img.shields.io/static/v1?message=Closedoor&logo=react&label=&color=000000&logoColor=&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
   </a>
   <a href="https://www.instagram.com/frntts/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
