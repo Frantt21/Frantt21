@@ -14,7 +14,7 @@
 
 <div data-importer="socials" align="center">
   <a href="https://app.foranly.space" target="_blank">
-    <img src="https://app.foranly.space/logo.svg" height="25" alt="instagram logo"  />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Closedoor?style=for-the-badge&logo=https%3A%2F%2Fapp.foranly.space%2Flogo.svg">
   </a>
   <a href="https://www.instagram.com/frntts/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
