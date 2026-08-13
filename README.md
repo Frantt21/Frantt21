@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="left">I’m 19, turning 20 soon. I enjoy video games, K-dramas, TV shows, and chatting with my friends.<br><br>I try to learn and adapt to new technologies so I don't get stuck in the past :)</p>
+<p data-importer="text" align="left">I’m 19 and will soon turn 20. I enjoy video games, K-dramas, TV series, and chatting with friends, and I’m an open-source enthusiast.<br><br>I try to learn and adapt to new technologies so I don't get stuck in the past :)</p>
 
 ###
 
